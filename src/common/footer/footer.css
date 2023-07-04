@@ -1,0 +1,87 @@
+.footer-main {
+    background-color: #18191a;
+}
+
+footer {
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    background-color: #18191a;
+    padding: 50px 30px;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    font-size: 12px;
+    margin: 15px 0 0 0;
+}
+.fill-current {
+    fill: #fff;
+    width: 20px;
+}
+
+.footer-title {
+    color: gray;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+.socials {
+    margin-top: 15px;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.socials a {
+    margin: 0 12px 0 0;
+}
+
+.logo,
+.playIcon {
+    height: 50px;
+    width: 150px;
+}
+
+.payIcon {
+    height: 20px;
+    width: 150px;
+}
+
+.footer-bar {
+    text-align: center;
+    background-color: #18191a;
+    color: #fff;
+    font-size: 12px;
+}
+
+.footer img {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 980px) {
+    .footer {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .footer {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        width: 100%;
+    }
+    .footer-title {
+        line-height: 3;
+    }
+}
+@media screen and (max-width: 568px) {
+    .footer {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+    }
+}

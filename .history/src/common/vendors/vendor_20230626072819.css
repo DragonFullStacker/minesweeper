@@ -1,0 +1,108 @@
+
+.registerForm {
+  width: 100%;
+}
+
+.register {
+  width: 100%;  
+  padding: 40px 50px 40px 100px;
+  padding-left: 80px;
+  padding-right: 160px;
+    
+  }
+
+  h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+  }
+  
+  h2 {
+    margin: 5px;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+  }
+  
+  h2.bold, label.bold {
+    font-weight: 700;
+  }
+  
+  div.firstName {
+    width: 44.1%;
+    margin-right: 59px;
+  }
+  
+  div.city {
+    width: 44.1%;
+    margin-right: 59px;
+  }
+  
+  div.lastName, div.state {
+    width: 47.3%;
+  }
+  
+  .text-base {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+  }
+  
+  .input-field {
+    background-color: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    height: 90px;
+    font-size: 32px;
+
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
+  
+  div.bussName {
+    width: 39.2%;
+    margin-right: 59px;
+  }
+  
+  div.bussType {
+    width: 20.8%;
+    margin-right: 59px;
+  }
+  
+  .others {
+    width: 26.1%;
+  }
+  
+  div.area {
+    width: 15.4%;
+    margin-right: 59px;
+  }
+  
+  div.phoneNumber {
+    width: 45.9%;
+  }
+  
+  div.email {
+    width: 60%;
+  }
+  
+  button.submit {
+    width: 32.3%;
+    background-color: #FDA14F;
+    height: 88px;
+    margin-top: 90px;
+    margin: auto;
+  }
+  
+.flex.flex-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.flex.flex-col {
+  display: flex;
+  flex-direction: column;
+}
+

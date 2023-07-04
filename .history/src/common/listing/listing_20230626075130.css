@@ -1,0 +1,110 @@
+
+.listcontainer {
+    padding: 48px 127px;
+
+  }
+
+  h1 {
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 72px;
+  }
+ 
+  .h2-font {
+    margin: 5px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 60px;
+  }
+
+  div.photo p {
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 400;
+  }
+  button.bg-btn {
+    background-color: transparent !important;
+    height: 84px;
+    width: 46%;
+    text-align: left;
+    padding-left: 70px;
+    margin: 0px;
+    padding-top: 10px;
+  }
+
+  button.about {
+    border-right: 1px solid black;
+    width: 50%;
+  }
+
+  .text-base {
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+  }
+
+  .step {
+    background-color:     #52CD8B;
+    height: 84px;
+    border-radius: 30px;
+    padding-top: 10px 10px;
+    margin-top: 40px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    align-items: center;
+    margin-bottom: 92px;
+}
+
+.listingSelect {
+  left: 135px;
+  width: 49.6%;
+  height: 88px;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 60px;
+  background-color: #D9D9D9;
+  margin-bottom: 41px;
+  border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+
+button.next-btn {
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 60px;
+  background-color:  #52CD8B;
+  height: 94px;
+  width: 22.8%;
+  margin: auto;
+  margin-top: 157px;
+  border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}
+
+.photo .input-field {
+  height: 98px;
+  width: 31.6%;
+  background-color: #D9D9D9;
+  margin-bottom: 31px;
+}
+
+input.description  {
+  height: 343px;
+  margin-top: 179px;
+  background-color: #D9D9D9;
+  width: 100%;
+  border-radius: 20px;
+  margin-bottom: 44px;
+  -webkit-border-radius: 20px;
+  -moz-border-radius: 20px;
+  -ms-border-radius: 20px;
+  -o-border-radius: 20px;
+}

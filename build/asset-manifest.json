@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.494e14c7.css",
+    "main.js": "/static/js/main.801d068a.js",
+    "static/media/gogle.png": "/static/media/gogle.102789f37bf2c576f45c.png",
+    "static/media/address-logo.png": "/static/media/address-logo.f7bfff8560f1e34d2201.png",
+    "static/media/applestore.png": "/static/media/applestore.38b910e4f20e3eca7a22.png",
+    "static/media/about-us.png": "/static/media/about-us.04fb393090405aa212e5.png",
+    "static/media/email.logo.png": "/static/media/email.logo.0813088218dda4477a9e.png",
+    "static/media/getblack-logo.png": "/static/media/getblack-logo.2be0e8706e91094cd16d.png",
+    "static/media/payment.png": "/static/media/payment.876412cc71329b8d1019.png",
+    "static/media/phone-logo.png": "/static/media/phone-logo.3eb8d822bff511cf572a.png",
+    "static/media/sales.png": "/static/media/sales.0aa2b8a8c15ce57924d1.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.494e14c7.css.map": "/static/css/main.494e14c7.css.map",
+    "main.801d068a.js.map": "/static/js/main.801d068a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494e14c7.css",
+    "static/js/main.801d068a.js"
+  ]
+}
